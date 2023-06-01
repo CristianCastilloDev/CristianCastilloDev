@@ -10,7 +10,7 @@
 
 <picture><img src = "https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" width = 250px></picture>
+<picture> <img align="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width = 250px></picture>
 
 <br>
 
