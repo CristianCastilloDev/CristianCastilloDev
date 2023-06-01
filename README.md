@@ -1,7 +1,7 @@
 
 <h1 align="center">
-  <b text-size: 20px >Hi , I'm Cristian Castillo </b> <br>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55">
+  <b text-size: 20px >Hi , I'm Cristian Castillo </b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <p align="center">
@@ -11,7 +11,11 @@
 
 <br>
 
-<picture><img src = "https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width = 50px></picture> **About me**
+<picture>
+  <img src = "https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width = 70px>
+</picture> <br>
+  <b text-size: 15px> About me</b>
+
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" align = right width = 250px></picture>
 
