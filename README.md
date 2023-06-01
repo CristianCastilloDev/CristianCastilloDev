@@ -10,7 +10,7 @@
 
 <picture><img src = "https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width = 50px></picture> **About me**
 
-<picture> <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" align = right width = 250px></picture>
+<picture> <img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" align = right width = 300px></picture>
 
 <br>
 
@@ -19,3 +19,6 @@
 - Currently learning Web Development by Self
 - Personal website [link]([https://www.0xabdulkhalid.ml](https://cristian-castillo.netlify.app/))
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](http://127.0.0.1:5500/Portafolio/assets/pdf/Cristian-2.pdf)
+
+
+<picture> <img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" align = right width = 300px></picture>
