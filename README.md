@@ -32,7 +32,7 @@
 - **Languages**:
     
     ![Java](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/-Java-blue)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://img.shields.io/badge/-C%2B%2B-inactive)
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![C](https://img.shields.io/badge/C%20-%2314354C.svg?style=for-the-badge&logo=C&logoColor=white)
 
 <br>   
