@@ -1,7 +1,7 @@
 
 <h1 align="center">
-  <b>Hi , I'm Cristian Castillo </b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <b text-size: 20px >Hi , I'm Cristian Castillo </b> <br>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55">
 </h1>
 
 <p align="center">
