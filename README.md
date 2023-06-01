@@ -14,10 +14,10 @@
 <picture>
   <img src = "https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width = 70px>
 </picture> <br>
-  <b text-size: 25px> About me</b>
+  <b text-size: 35px> About me</b>
 
 
-<picture> <img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" align = right width = 250px></picture>
+<picture> <img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" align = right width = 250px border-radius: 8px></picture>
 
 <br>
 
