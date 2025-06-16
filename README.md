@@ -19,6 +19,6 @@
 - Passionate about the world of technology and willing to learn new things.
 - Web Developer, Software Developer and Good Quality Creator
 - Currently learning Web Development by Self
-- Personal website [link]([https://www.0xabdulkhalid.ml](https://cristian-castillo.netlify.app/))
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](http://127.0.0.1:5500/Portafolio/assets/pdf/Cristian-2.pdf)
+- Personal website [link]([https://www.krissdev.com/))
+- I’m currently open for an Intern or a new job opportunity, this is [my resume]()
 
