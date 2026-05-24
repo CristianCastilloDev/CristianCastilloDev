@@ -1,8 +1,7 @@
 # 🛡️ KrissDev| Cybersecurity & DevSecOps
 
 <p align="center">
-  <!-- OPCIÓN A: Si guardas el código como 'stats.svg' en tu repositorio (Recomendado) -->
-  <img src="./stats.svg" alt="Code Stats" width="100%" />
+  <img src="https://raw.githubusercontent.com/CristianCastilloDev/CristianCastilloDev/main/stats.svg" alt="Code Stats" width="100%" />
 </p>
 
 <p align="center">
