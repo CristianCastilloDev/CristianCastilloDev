@@ -1,4 +1,4 @@
-# 🛡️ [Tu Nombre o Nickname] | Cybersecurity & DevSecOps
+# 🛡️ KrissDev| Cybersecurity & DevSecOps
 
 <p align="center">
   <!-- OPCIÓN A: Si guardas el código como 'stats.svg' en tu repositorio (Recomendado) -->
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:tu-correo@dominio.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:cristiandevmx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://tryhackme.com/p/TU_USUARIO"><img src="https://img.shields.io/badge/TryHackMe-990000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
 </p>
 
