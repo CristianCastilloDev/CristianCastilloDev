@@ -1,4 +1,4 @@
-# 🛡️ KrissDev| Cybersecurity & DevSecOps
+# 🛡️ KrissDev | Cybersecurity & DevSecOps
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CristianCastilloDev/CristianCastilloDev/main/stats.svg" alt="Code Stats" width="100%" />
