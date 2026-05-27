@@ -1,11 +1,6 @@
 # 🛡️ KrissDev | Cybersecurity & DevSecOps
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CristianCastilloDev/CristianCastilloDev/main/stats.svg" alt="Code Stats" width="100%" />
-</p>
-
----
-<p align="center">
   <img src="stats.svg" alt="Cybersecurity Dashboard Stats" width="100%" />
 </p>
 ---
