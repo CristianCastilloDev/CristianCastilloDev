@@ -4,6 +4,25 @@
   <img src="https://raw.githubusercontent.com/CristianCastilloDev/CristianCastilloDev/main/stats.svg" alt="Code Stats" width="100%" />
 </p>
 
+---
+
+## 📊 Estadísticas de Operaciones (Live Stats)
+
+<p align="center">
+  <!-- Tarjeta de Estadísticas Generales en tiempo real -->
+  <img src="https://github-readme-stats.vercel.app/api?username=CristianCastilloDev&show_icons=true&theme=dark&icon_color=b30000&text_color=ffffff&title_color=b30000&bg_color=000000&border_color=30363d&hide_border=false" alt="Estadísticas de Cristian" width="49%" />
+  
+  <!-- Tarjeta de Lenguajes más usados en tus repositorios -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianCastilloDev&layout=compact&theme=dark&icon_color=b30000&text_color=ffffff&title_color=b30000&bg_color=000000&border_color=30363d&hide_border=false" alt="Lenguajes de Cristian" width="49%" />
+</p>
+
+<p align="center">
+  <!-- Gráfica de racha de actividad (Streak) combinando los colores rojo y negro -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CristianCastilloDev&theme=tokyonight&background=000000&ring=b30000&fire=b30000&currStreakNum=ffffff&sideLabels=ffffff" alt="Racha de GitHub" width="100%"/>
+</p>
+
+---
+
 <p align="center">
   <a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:cristiandevmx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
