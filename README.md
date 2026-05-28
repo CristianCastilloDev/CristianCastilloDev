@@ -56,7 +56,7 @@ Analista de seguridad enfocado en el desarrollo seguro (DevSecOps), automatizaci
 ## 📈 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight&ring=b30000&fire=ff0000" alt="GitHub Streak" width="80%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CristianCastilloDev&theme=tokyonight&background=000000&ring=b30000&fire=b30000&currStreakNum=ffffff&sideLabels=ffffff" alt="Racha de GitHub" width="100%"/>
 </p>
 
 ---
