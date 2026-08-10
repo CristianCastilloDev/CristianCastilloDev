@@ -1,4 +1,4 @@
-# 🛡️ KrissDev | Cybersecurity & DevSecOps
+# 🛡️ Ingeniero en TI de Mazatlán | Infraestructura, Redes y Ciberseguridad | Homelab con Wazuh, Proxmox, Docker | También desarrollo en Python/SQL
 
 <p align="center">
   <img src="stats.svg" alt="Cybersecurity Dashboard Stats" width="100%" />
