@@ -1,5 +1,7 @@
-# Ingeniero en TI de Mazatlán | Infraestructura, Redes y Ciberseguridad | Homelab con Wazuh, Proxmox, Docker | También desarrollo en Python/SQL
+## Cristian Castillo | IT Infrastructure & Security - Mazatlán
+**Ingeniero en TI de Mazatlán | Infraestructura, Redes y Ciberseguridad | Homelab con Wazuh, Proxmox, Docker | También desarrollo en Python/SQL**
 
+🛡️ KrissDev | Cybersecurity & DevSecOps
 <p align="center">
   <img src="stats.svg" alt="Cybersecurity Dashboard Stats" width="100%" />
 </p>
